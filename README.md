@@ -11,11 +11,11 @@ Programming Language: Python
 Libraries: OpenCV (for CCTV camera integration), NumPy, Pandas, Matplotlib (for visualizations)
 Environment: Jupyter Notebook (for development and demonstration)
 Installation
-To get started with Traffic Neo, follow these steps:
+To get started with TraffiSense, follow these steps:
 
 1. Clone the Repository
-git clone https://github.com/yourusername/traffic-neo.git
-cd traffic-neo
+git clone https://github.com/yourusername/traffisense.git
+cd traffisense
 2. Install Dependencies
 Ensure Python 3.6+ is installed, and then install the required dependencies by running:
 
