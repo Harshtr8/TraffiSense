@@ -1,7 +1,1 @@
-# TraffiSense
- TraffiSense — Python, YOLOv5, DeepSort, Computer Vision
- Sep 2024
- • architecting a traffic management
- algorithm demonstrating potential to save 20,400 lives per day in India.
- • Integrated YOLO, a high-performance object detection model, boosting accuracy by 30% in vehicle detection
- and enhancing computational efficiency by 25%
+TraffiSense is a Python-based smart traffic optimization algorithm designed to prioritize emergency vehicles (such as ambulances) while ensuring fast traffic flow across up to 4 lanes. Built with efficiency and scalability in mind, Traffic Neo uses CCTV cameras to monitor traffic conditions and adjusts traffic lights dynamically, ensuring smooth traffic management in urban areas. The algorithm is resource-efficient, making it suitable for real-time implementation in cities.
